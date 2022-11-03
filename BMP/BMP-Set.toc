@@ -1,0 +1,15 @@
+## Interface: 100000
+## Title: |cff00FFFFBlinkiis|r |cff0094FFMedia|r |cff0026FFPack|r
+## Author: Blinkii
+## Version: 1.0.0
+## Notes: Statusbar Textures from Blinkii | Support: mMediaTag@gmx.de
+## OptionalDeps: LibStub, LibSharedMedia-3.0
+## DefaultState: Enabled
+## X-Category: Miscellaneous
+## X-Interface: 100000
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+libs\LibSharedMedia-3.0\lib.xml
+
+loadmedia.lua
