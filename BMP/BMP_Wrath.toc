@@ -1,7 +1,7 @@
 ## Interface: 30400
 ## Title: |cff00FFFFBlinkiis|r |cff0094FFMedia|r |cff0026FFPack|r
 ## Author: Blinkii
-## Version: 1.0.1
+## Version: 1.0.2
 ## Notes: Statusbar Textures from Blinkii | Support: mMediaTag@gmx.de
 ## OptionalDeps: LibStub, LibSharedMedia-3.0
 ## DefaultState: Enabled
